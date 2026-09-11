@@ -1,2 +1,0 @@
-import os
-bot.run(os.getenv('DISCORD_TOKEN'))  # Store token in system environment variables
